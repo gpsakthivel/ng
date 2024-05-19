@@ -9,6 +9,11 @@ import { TdfComponent } from './tutorials/ng-form/tdf/tdf.component';
 import { RfComponent } from './tutorials/ng-form/rf/rf.component';
 import { HomeComponent } from './tutorials/ng-form/home/home.component';
 import { GettingStartedComponent } from './getting-started/getting-started.component';
+import { HeaderComponent } from './layout/header/header.component';
+import { FooterComponent } from './layout/footer/footer.component';
+import { SidebarComponent } from './layout/sidebar/sidebar.component';
+import { NotFoundComponent } from './layout/not-found/not-found.component';
+import { MaintenanceComponent } from './layout/maintenance/maintenance.component';
 // For ng form imports
 
 @NgModule({
@@ -19,7 +24,12 @@ import { GettingStartedComponent } from './getting-started/getting-started.compo
     TdfComponent,
     RfComponent,
     HomeComponent,
-    GettingStartedComponent
+    GettingStartedComponent,
+    HeaderComponent,
+    FooterComponent,
+    SidebarComponent,
+    NotFoundComponent,
+    MaintenanceComponent
     // For ng form learning
   ],
   imports: [

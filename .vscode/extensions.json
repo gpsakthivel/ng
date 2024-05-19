@@ -1,4 +1,20 @@
 {
   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
-  "recommendations": ["angular.ng-template"]
+  "recommendations": ["angular.ng-template", "esbenp.prettier-vscode",]
 }
+
+    // "dbaeumer.vscode-eslint",
+    // "github.vscode-pull-request-github",
+    // "expertly-simple.ng-evergreen",
+    // "formulahendry.auto-close-tag",
+    // "johnpapa.angular-essentials",
+    // "johnpapa.vscode-peacock",
+    // "ms-azuretools.vscode-docker",
+    // "PKief.material-icon-theme",
+    // "amatiasq.sort-imports",
+    // "DSKWRK.vscode-generate-getter-setter",
+    // "ms-vscode.vscode-typescript-tslint-plugin",
+    // "WallabyJs.quokka-vscode",
+    // "HookyQR.beautify",
+    // "msjsdiag.debugger-for-edge",
+    // "WallabyJs.console-ninja"

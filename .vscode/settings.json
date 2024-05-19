@@ -1,0 +1,77 @@
+// {
+//     "debug.openExplorerOnEnd": true,
+//     "editor.tabSize": 1,
+//     "editor.rulers": [120],
+//     "editor.autoIndent": "full",
+//     "editor.cursorBlinking": "solid",
+//     "editor.formatOnType": false,
+//     "editor.formatOnPaste": false,
+//     "editor.formatOnSave": true,
+//     "editor.minimap.enabled": false,
+//     "editor.codeActionsOnSave": {
+//       "source.fixAll": "explicit",
+//       "source.organizeImports": "never",
+//       "source.fixAll.eslint": "explicit",
+//       "source.fixAll.tslint": "explicit"
+//       // "source.removeUnusedImports": "explicit"
+//     },
+//     "eslint.enable": false,
+//     "eslint.validate": [
+//       "javascript",
+//       "javascriptreact",
+//       "typescript",
+//       "typescriptreact",
+//       "html"
+//     ],
+//     "eslint.options": {
+//       "extensions": [".ts", ".html"]
+//     },
+//     "explorer.openEditors.visible": 0,
+//     "files.trimTrailingWhitespace": true,
+//     "files.autoSave": "onFocusChange",
+//     "git.confirmSync": false,
+//     "git.enableSmartCommit": true,
+//     "typescript.tsdk": "node_modules/typescript/lib",
+//     "workbench.iconTheme": "material-icon-theme",
+//     "auto-close-tag.SublimeText3Mode": true,
+//     "html.autoClosingTags": true,
+//     "peacock.affectActivityBar": true,
+//     "peacock.affectStatusBar": true,
+//     "peacock.affectTitleBar": false,
+//     "workbench.colorCustomizations": {
+//       "editorLineNumber.foreground": "#53b65b",
+//       "activityBar.background": "#d04649",
+//       "activityBar.activeBackground": "#d04649",
+//       "activityBar.activeBorder": "#43df84",
+//       "activityBar.foreground": "#e7e7e7",
+//       "activityBar.inactiveForeground": "#e7e7e799",
+//       "activityBarBadge.background": "#37cb34",
+//       "activityBarBadge.foreground": "#15202b",
+//       "sash.hoverBorder": "#d04649",
+//       "editor.background": "#383535",
+//       "sideBar.background": "#313131",
+//       "list.hoverBackground": "#794500",
+//       "statusBar.background": "#b52e31",
+//       "statusBar.foreground": "#e7e7e7",
+//       "statusBarItem.hoverBackground": "#d04649",
+//       "statusBarItem.remoteBackground": "#b52e31",
+//       "statusBarItem.remoteForeground": "#e7e7e7"
+//     },
+//     "peacock.color": "#b52e31",
+//     "gitlens.menus": {
+//       "editorGroup": false
+//     },
+//     "ng-evergreen.upgradeChannel": "Latest",
+//     "editor.defaultFormatter": "esbenp.prettier-vscode",
+//     "[html]": {
+//       "editor.defaultFormatter": "HookyQR.beautify"
+//     },
+//     "[shellscript]": {
+//       "editor.defaultFormatter": "foxundermoon.shell-format"
+//     },
+//     "[ignore]": {
+//       "editor.defaultFormatter": "foxundermoon.shell-format"
+//     },
+//     "npm.enableScriptExplorer": true,
+//     "circleci.persistedProjectSelection": []
+//   }
